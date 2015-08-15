@@ -8,13 +8,6 @@ The objectives:
 * when zooming out display a pin
 * when completely zoomed out display only a circle.
 
- 
-License
-=========================
-
-[Under a Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
-
-![Creative Commons License Badge](http://i.creativecommons.org/l/by/3.0/88x31.png "Creative Commons Attribution")
 
 Screenshots
 =========================
