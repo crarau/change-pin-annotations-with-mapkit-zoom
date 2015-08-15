@@ -19,6 +19,6 @@ License
 Screenshots
 =========================
 
-![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/zoom1.png "Zoom1")
-![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/zoom2.png "Zoom2")
-![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/zoom3.png "Zoom3")
+![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/blob/master/zoom1.png "Zoom1")
+![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/blob/master/zoom2.png "Zoom2")
+![Screenshot](https://github.com/crarau/change-pin-annotations-with-mapkit-zoom/blob/master/zoom3.png "Zoom3")
